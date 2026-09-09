@@ -1,0 +1,12 @@
+{
+  "name": "Mon tableau Kanban",
+  "short_name": "Mon tableau",
+  "description": "Un tableau Kanban personnel, simple et personnalisable.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#e9e5dc",
+  "theme_color": "#e9e5dc",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
